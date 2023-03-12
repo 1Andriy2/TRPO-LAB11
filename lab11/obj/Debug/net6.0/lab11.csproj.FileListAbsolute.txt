@@ -1,0 +1,15 @@
+D:\4курс\трпк\lab11\lab11\bin\Debug\net6.0\lab11.exe
+D:\4курс\трпк\lab11\lab11\bin\Debug\net6.0\lab11.deps.json
+D:\4курс\трпк\lab11\lab11\bin\Debug\net6.0\lab11.runtimeconfig.json
+D:\4курс\трпк\lab11\lab11\bin\Debug\net6.0\lab11.dll
+D:\4курс\трпк\lab11\lab11\bin\Debug\net6.0\lab11.pdb
+D:\4курс\трпк\lab11\lab11\obj\Debug\net6.0\lab11.csproj.AssemblyReference.cache
+D:\4курс\трпк\lab11\lab11\obj\Debug\net6.0\lab11.GeneratedMSBuildEditorConfig.editorconfig
+D:\4курс\трпк\lab11\lab11\obj\Debug\net6.0\lab11.AssemblyInfoInputs.cache
+D:\4курс\трпк\lab11\lab11\obj\Debug\net6.0\lab11.AssemblyInfo.cs
+D:\4курс\трпк\lab11\lab11\obj\Debug\net6.0\lab11.csproj.CoreCompileInputs.cache
+D:\4курс\трпк\lab11\lab11\obj\Debug\net6.0\lab11.dll
+D:\4курс\трпк\lab11\lab11\obj\Debug\net6.0\refint\lab11.dll
+D:\4курс\трпк\lab11\lab11\obj\Debug\net6.0\lab11.pdb
+D:\4курс\трпк\lab11\lab11\obj\Debug\net6.0\lab11.genruntimeconfig.cache
+D:\4курс\трпк\lab11\lab11\obj\Debug\net6.0\ref\lab11.dll
